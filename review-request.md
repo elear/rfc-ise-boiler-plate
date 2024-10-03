@@ -17,5 +17,5 @@ to take this one on?
 
 Thank you in advance,
 
-Eliot Lear
+Eliot Lear  
 Independent Submissions Editor

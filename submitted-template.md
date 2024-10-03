@@ -28,5 +28,5 @@ at any time prior to that last step 12, so we have a ways to go.
 
 I will be in touch once I have performed my initial review.
 
-Eliot Lear
+Eliot Lear  
 Independent Submissions Editor

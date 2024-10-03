@@ -1,8 +1,12 @@
 Authors,
 
-I have noted your submission of draft-xyz.  As a reminder, the process is
-documented at https://www.rfc-editor.org/about/independent/.  Here is the
-way things generally proceed:
+I have noted your submission of draft-xyz.  You should see some email
+indicating that the draft is now marked as under consideration as an
+independent submission, and the state in the data tracker will be set
+to "submitted".
+
+As mentioned on [our website](https://www.rfc-editor.org/about/independent/),
+here is the way things generally proceed:
 
 1. ~~Submit a draft~~
 2. ~~Fill out the independent submissions template found at the top of this page~~

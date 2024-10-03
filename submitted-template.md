@@ -3,7 +3,10 @@ Authors,
 I have noted your submission of draft-xyz.  You should see some email
 indicating that the draft is now marked as under consideration as an
 independent submission, and the state in the data tracker will be set
-to "submitted".
+to "submitted".  Please note well that by pursuing this submission you
+are agreeing to the terms specified in Section 8 of [RFC
+4846](https://www.rfc-editor.org/rfc/rfc4846.txt) and [RFC
+5744](https://www.rfc-editor.org/rfc/rfc5744.txt).
 
 As mentioned on [our website](https://www.rfc-editor.org/about/independent/),
 here is the way things generally proceed:

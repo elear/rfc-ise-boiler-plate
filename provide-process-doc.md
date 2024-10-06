@@ -1,8 +1,8 @@
 Dear author(s),
 
 Thanks for your interest in publishing an RFC in the independent
-series.  The process for handling of submissions is documented in (RFC
-4846)[https://www.rfc-editor.org/info/rfc4846] and on [our
+series.  The process for handling of submissions is documented in 
+[RFC 4846](https://www.rfc-editor.org/info/rfc4846( and on [our
 website](https://www.rfc-editor.org/about/independent/).  Please note
 the template on that page.
 
